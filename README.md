@@ -1,6 +1,4 @@
 # SHOPPING TRENDS AND CUSTOMER PREFERENCES AT LUXEHUB
-![shopping 3](https://github.com/user-attachments/assets/ab87471b-58dc-4eb8-b241-12ccb69ff476)
-
 
 ## INTRODUCTION
 
@@ -52,10 +50,10 @@ The datset contains 3900 rows and 18 columns.
 ![Age_group](https://github.com/user-attachments/assets/278411a1-3517-40a8-8098-e1aa77bd09ba)
 
 3. Clothing is the top-performing product categories while Montana, Illinois, California, Idaho and Nevada are the top performing locations.
-![Performance of product category](https://github.com/user-attachments/assets/4ecd7d7c-36d2-4c6c-a794-aaeb3f8335fe), ![Top 5 Locations Driving sales](https://github.com/user-attachments/assets/1dbdf68f-3bf8-4078-86a7-44dbf14e86eb)
+![Performance of product category](https://github.com/user-attachments/assets/4ecd7d7c-36d2-4c6c-a794-aaeb3f8335fe)
+![Top 5 Locations Driving sales](https://github.com/user-attachments/assets/1dbdf68f-3bf8-4078-86a7-44dbf14e86eb)
 
-
-4. 
+5. 
 
 
 

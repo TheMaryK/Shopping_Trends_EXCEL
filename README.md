@@ -3,11 +3,11 @@
 
 
 ## INTRODUCTION
----
+
 This is a Microsoft Excel project on Customer Preferences and Shopping Trends at LuxeHub, USA. This project focuses on understanding who the customers are, what they prefer, and when they shop the most, which is key to optimizing sales strategies and meeting customer expectations.
 
 ## BUSINESS QUESTIONS
----
+
 1. What is the demographic distribution of customers?
 2. What are the top-performing product categories and locations?
 3. What are the most commonly used payment methods?
@@ -17,18 +17,17 @@ This is a Microsoft Excel project on Customer Preferences and Shopping Trends at
 7. How do promo codes and subscription status influence the average purchase amount and satisfaction level?
 
 ## TOOLS USED
----
-- Microsoft Excel (Power Query Editor, Pivot Tables, Charts, Dashboard)
+
+Microsoft Excel (Power Query Editor, Pivot Tables, Charts, Dashboard)
 
 ## DATA SOURCE
----
+
 Kaggle, [Check here](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset)
 
 The datset contains 3900 rows and 18 columns.
 ![Raw_dataset](https://github.com/user-attachments/assets/5689bc98-467e-45e2-94ca-6381726e6939)
 
 ## DATA CLEANING PROCESSES
----
 
 1. Load the dataset into Power Query Editor
 ![PowerQuery](https://github.com/user-attachments/assets/77c699f7-5e91-4915-b746-742ed39f7fe4)
@@ -45,7 +44,7 @@ The datset contains 3900 rows and 18 columns.
 ![Final dataset](https://github.com/user-attachments/assets/c7f30ab1-a9a9-4acd-af9e-3e5810c1581d)
 
 ## ANALYSIS/FINDINGS
----
+
 1. The Male gender dominates the customer base, with 68%
 ![Gender](https://github.com/user-attachments/assets/b9f43be4-2d0c-47c5-83a1-a89ad25d1d5f)
 
@@ -53,8 +52,8 @@ The datset contains 3900 rows and 18 columns.
 ![Age_group](https://github.com/user-attachments/assets/278411a1-3517-40a8-8098-e1aa77bd09ba)
 
 3. Clothing is the top-performing product categories while Montana, Illinois, California, Idaho and Nevada are the top performing locations.
-![Top 5 Locations Driving sales](https://github.com/user-attachments/assets/1dbdf68f-3bf8-4078-86a7-44dbf14e86eb)
-![Performance of product category](https://github.com/user-attachments/assets/4ecd7d7c-36d2-4c6c-a794-aaeb3f8335fe)
+![Performance of product category](https://github.com/user-attachments/assets/4ecd7d7c-36d2-4c6c-a794-aaeb3f8335fe), ![Top 5 Locations Driving sales](https://github.com/user-attachments/assets/1dbdf68f-3bf8-4078-86a7-44dbf14e86eb)
+
 
 4. 
 

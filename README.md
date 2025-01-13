@@ -1,5 +1,6 @@
 # SHOPPING TRENDS AND CUSTOMER PREFERENCES AT LUXEHUB
-![Shopping trends](https://github.com/user-attachments/assets/0fa7a877-1342-4f06-a809-2e47590eb016)
+![shopping](https://github.com/user-attachments/assets/f765010f-9528-4a9e-bf89-e176438db17e)
+
 
 ## INTRODUCTION
 This is a Microsoft Excel project on Customer Preferences and Shopping Trends at LuxeHub, USA. This project focuses on understanding who the customers are, what they prefer, and when they shop the most, which is key to optimizing sales strategies and meeting customer expectations.

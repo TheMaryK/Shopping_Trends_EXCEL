@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dab072c4-55bb-432f-aa81-a461382662b6)# SHOPPING TRENDS AND CUSTOMER PREFERENCES AT LUXEHUB
+# SHOPPING TRENDS AND CUSTOMER PREFERENCES AT LUXEHUB
 ![shopping 3](https://github.com/user-attachments/assets/ab87471b-58dc-4eb8-b241-12ccb69ff476)
 
 

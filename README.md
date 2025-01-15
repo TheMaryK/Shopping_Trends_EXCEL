@@ -6,13 +6,13 @@ This is a Microsoft Excel project on Customer Preferences and Shopping Trends at
 
 ## BUSINESS QUESTIONS
 
-1. What is the demographic distribution of customers?
-2. What are the top-performing product categories and locations?
-3. What are the most commonly used payment methods?
-4. Which shipping types are most frequently used?
-5. What are the average review ratings across different demographic groups?
-6. How does spending vary across seasons? 
-7. How do promo codes and subscription status influence the average purchase amount and satisfaction level?
+1. What are the top-performing product categories and locations?
+2. What are the average review ratings across gender and age groups?
+3. How does spending vary across seasons? 
+4. How do subscription status influence the average purchase amount and satisfaction level?
+5. What are the most commonly used payment methods?
+6. What is the demographic distribution of customers?
+7. Which shipping types are most frequently used?
 
 ## TOOLS USED
 
@@ -43,17 +43,17 @@ The datset contains 3900 rows and 18 columns.
 
 ## ANALYSIS/FINDINGS
 
-1. The Male gender dominates the customer base, with 68%
-![Gender](https://github.com/user-attachments/assets/b9f43be4-2d0c-47c5-83a1-a89ad25d1d5f)
+1. Clothing remains the top-seller.
+2. Montana leads in customer spending.
+3. Customer satisfaction peaks among 18-25-year-old males and 26-35-year-old females.
+4. Fall tops seasonal spending trends.
+5. PayPal, Credit Card, and Cash Compete Closely as Top Payment Methods
+![image](https://github.com/user-attachments/assets/d068c3a5-5340-4edf-a3f2-a0673d4e8b1f)
+6.Customers Love Free Shipping, But Shipping Methods Aren’t Far Behind
+![image](https://github.com/user-attachments/assets/17119239-81a6-4dd3-80f4-90893f8f4f62)
+7. The Male gender dominates the customer base, with a percentage of 68.
+8. Consistent representation across all age groups, except for the 66–70 age group, which stands out with a significantly lower percentage.
 
-2. The age distribution shows consistent representation across all age groups, except for the 66–70 age group, which stands out with a significantly lower percentage
-![Age_group](https://github.com/user-attachments/assets/278411a1-3517-40a8-8098-e1aa77bd09ba)
-
-3. Clothing is the top-performing product categories while Montana, Illinois, California, Idaho and Nevada are the top performing locations.
-![Performance of product category](https://github.com/user-attachments/assets/4ecd7d7c-36d2-4c6c-a794-aaeb3f8335fe)
-![Top 5 Locations Driving sales](https://github.com/user-attachments/assets/1dbdf68f-3bf8-4078-86a7-44dbf14e86eb)
-
-5. 
 
 
 

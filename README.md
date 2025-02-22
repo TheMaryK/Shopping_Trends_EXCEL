@@ -1,23 +1,20 @@
 # SHOPPING TRENDS AND CUSTOMER PREFERENCES AT LUXEHUB
-
-![store](https://github.com/user-attachments/assets/7889b5fb-139c-43c2-ab71-0a1100e46a26)
-
+![store (2)](https://github.com/user-attachments/assets/6356500e-1492-41fe-80bb-91fd3661edc3)
 
 ## INTRODUCTION
 
 This is a Microsoft Excel project on Customer Preferences and Shopping Trends. This project focuses on understanding who the customers are, what they prefer, and when they shop the most, which is key to optimizing sales strategies and meeting customer expectations.
 
-Curious to see the full dataset and dashboard? [Here you have it](https://1drv.ms/x/c/ec5d3d06336b4d58/EaA1TIS1d9NPv_DR1WrhOFQBM6ZIx-nb_4M87S3XH2gu1g?e=5plSxA)
+Curious to see the full dataset and dashboard? [Here you have it](https://1drv.ms/x/c/ec5d3d06336b4d58/EU17BTPABTtMnCev6UHgE3MBfHAat4WtktKqELYdArlubw?e=aLdNYC)
 
 ## KEY ANALYTICAL PURSUITS
 
-1. What are the top-performing product categories and locations?
-2. What are the average review ratings across gender?
-3. How does spending vary across seasons? 
-4. How do subscription status influence the average purchase amount and satisfaction level?
-5. What are the most commonly used payment methods?
-6. What is the demographic distribution of customers?
-7. Which shipping types are most frequently used?
+1. Which gender dominates the customer base?
+2. Does promotional strategies (subscription and promo code) impact sale?
+3. Which payment methods drive the highest sales?
+4. How does shipping preference impact overall revenue?
+5. Which category is the best seller?
+6. How does spending vary across seasons? 
 
 ## TOOLS USED
 
@@ -43,45 +40,21 @@ The datset contains 3900 rows and 18 columns.
 4. I deleted columns that were not needed for my analysis. Columns like **'Age', 'Previous Purchases', 'Size', 'Color', 'Discount Applied', 'Frequency of Purchases'**
 
 ## FINAL DATASET 
-![Screenshot 2025-01-21 235441](https://github.com/user-attachments/assets/0bf166d5-5eaf-4d04-9430-d32a3b2caf42)
-
+![Screenshot 2025-02-22 200858](https://github.com/user-attachments/assets/807a6213-a102-4822-922e-a2152a7f088b)
 
 ## ANALYSIS/FINDINGS
 
-1. Clothing remains the top-seller.
-   
-   ![image](https://github.com/user-attachments/assets/71d7e906-4408-4165-9def-b045d80a24a5)
-
-2. Montana leads in customer spending.
-
-![image](https://github.com/user-attachments/assets/904d5f7f-f0ec-4c01-9d43-564126b8e77f)
-
-
-3. Fall tops seasonal spending trends.
-
-   ![image](https://github.com/user-attachments/assets/e961ac65-a5ca-41e1-aa7a-51d36d0eb184)
-
-4. 27% of customers are subcribers and subsciption don't guarantee spending boost or high ratings
-   
-![Screenshot 2025-01-22 001653](https://github.com/user-attachments/assets/ded1fb3e-eafa-42ac-b04f-ec10e955374a)
-
-![image](https://github.com/user-attachments/assets/d6ce8845-3d37-4d8a-927f-ce155ba70336)
-
-5. PayPal, Credit Card, and Cash Compete Closely as Top Payment Methods.
-
-   ![image](https://github.com/user-attachments/assets/18432bb1-091e-4f90-85a2-373789c64989)
-
-6. Customers Love Free Shipping, But Shipping Methods Aren’t Far Behind
-
-   ![image](https://github.com/user-attachments/assets/25374e17-02e3-4ea0-8a01-6522b08d4adc)
-
-7. The Male gender dominates the customer base.
-
-   ![image](https://github.com/user-attachments/assets/416a4392-9826-4d58-a505-ec1a6336134b)
-
+1. The Male gender dominates the customer base.
+2. Clothing remains the top-seller.
+3. Just 27% of the customers are Subscribers, Infact, none of the female customers subscribe.
+4. 43% of the customers have taken advantage of the promo code so far. Again, none of the female customers are part of these 47%.
+5. All the payment methods are being utilized very well by the customers.
+6. Customers love free shipping but other shipping methods are not laggong either.
+7. Clothing remains the best seller.
+8. Fall tops seasonal spending trend .
 
 ## THE DATA STORYBOARD
-![Screenshot 2025-01-22 001749](https://github.com/user-attachments/assets/00aaa524-580d-40ff-ab0d-382c9b56b07b)
+![Screenshot 2025-02-22 202212](https://github.com/user-attachments/assets/8b178fb3-72b5-49f2-be7e-f7295e6a8b48)
 
 
 ## RECOMMENDATIONS
@@ -89,7 +62,6 @@ The datset contains 3900 rows and 18 columns.
 1. Conduct in-depth surveys to identify any barriers preventing female customers from engaging with the brand. These insights should be used to refine strategies, ensuring products, services, and marketing campaigns resonate with their preferences and expectations.
 
 2. There's need to increase the accessibility and visibility of subscription options and promo codes to appeal to budget-conscious customers. This approach will not only encourage customer loyalty but also provide an effective incentive for new and repeat purchases.
-
 
 
 ![2025](https://github.com/user-attachments/assets/806517ac-5863-49ad-9bf2-08eeabd8de40)

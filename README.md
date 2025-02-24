@@ -4,7 +4,10 @@
 
 ## INTRODUCTION
 
-This is a Microsoft Excel project on Customer Preferences and Shopping Trends. This project focuses on understanding who the customers are, what they prefer, and when they shop the most, which is key to optimizing sales strategies and meeting customer expectations.
+Who shops more? Men or women? Do promotional strategies actually boost sales? Which payment and shipping methods bring in the most revenue?
+This project analysez customer data to uncover what drives customer behavior, which products sell best, and how spending shifts with the seasons. 
+
+The goal? To help businesses optimize sales strategies and create a shopping experience that truly resonates with customers. 
 
 Curious to see the full dataset and dashboard? [Here you have it](https://1drv.ms/x/c/ec5d3d06336b4d58/EU17BTPABTtMnCev6UHgE3MBfHAat4WtktKqELYdArlubw?e=aLdNYC)
 
@@ -17,9 +20,9 @@ Curious to see the full dataset and dashboard? [Here you have it](https://1drv.m
 5. Which category is the best seller?
 6. How does spending vary across seasons? 
 
-## TOOLS USED
+## TOOLS USED/SKILLS DEMONSTRATED
 
-Microsoft Excel (Power Query Editor, Pivot Tables, Charts, Dashboard)
+Microsoft Excel (Power Query Editor for data cleaning, Pivot Tables and Charts for analysis and insight)
 
 ## DATA SOURCE
 
@@ -60,6 +63,7 @@ The datset contains 3900 rows and 18 columns.
 8. Fall tops seasonal spending trend.
 
 ## THE DATA STORYBOARD
+
 ![Screenshot 2025-02-22 202212](https://github.com/user-attachments/assets/8b178fb3-72b5-49f2-be7e-f7295e6a8b48)
 
 

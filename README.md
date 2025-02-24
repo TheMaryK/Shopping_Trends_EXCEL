@@ -1,4 +1,5 @@
 # SHOPPING TRENDS AND CUSTOMER PREFERENCES AT LUXEHUB
+
 ![store (2)](https://github.com/user-attachments/assets/6356500e-1492-41fe-80bb-91fd3661edc3)
 
 ## INTRODUCTION
@@ -25,22 +26,27 @@ Microsoft Excel (Power Query Editor, Pivot Tables, Charts, Dashboard)
 Kaggle, [Check here](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset)
 
 The datset contains 3900 rows and 18 columns.
+
 ![Raw_dataset](https://github.com/user-attachments/assets/5689bc98-467e-45e2-94ca-6381726e6939)
 
 ## DATA CLEANING PROCESSES
 
 1. Load the dataset into Power Query Editor
+   
 ![PowerQuery](https://github.com/user-attachments/assets/77c699f7-5e91-4915-b746-742ed39f7fe4)
 
 2. Checked for missing values, duplicates and inconsistencies.
 
 3. Converted the 'Purchase Amount (USD)' column data type to Currency
+   
 ![Currency data type](https://github.com/user-attachments/assets/7b25de6f-c7c3-4eb6-8883-3cac8f9bd9e7)
 
 4. I deleted columns that were not needed for my analysis. Columns like **'Age', 'Previous Purchases', 'Size', 'Color', 'Discount Applied', 'Frequency of Purchases'**
 
 ## FINAL DATASET 
-![Screenshot 2025-02-22 200858](https://github.com/user-attachments/assets/807a6213-a102-4822-922e-a2152a7f088b)
+
+![Screenshot 2025-02-22 200858](https://github.com/user-attachments/assets/eff95f23-af8a-4126-a1db-54c6a2a0c208)
+
 
 ## ANALYSIS/FINDINGS
 
@@ -51,7 +57,7 @@ The datset contains 3900 rows and 18 columns.
 5. All the payment methods are being utilized very well by the customers.
 6. Customers love free shipping but other shipping methods are not laggong either.
 7. Clothing remains the best seller.
-8. Fall tops seasonal spending trend .
+8. Fall tops seasonal spending trend.
 
 ## THE DATA STORYBOARD
 ![Screenshot 2025-02-22 202212](https://github.com/user-attachments/assets/8b178fb3-72b5-49f2-be7e-f7295e6a8b48)
@@ -63,8 +69,7 @@ The datset contains 3900 rows and 18 columns.
 
 2. There's need to increase the accessibility and visibility of subscription options and promo codes to appeal to budget-conscious customers. This approach will not only encourage customer loyalty but also provide an effective incentive for new and repeat purchases.
 
-
-![2025](https://github.com/user-attachments/assets/806517ac-5863-49ad-9bf2-08eeabd8de40)
+![2](https://github.com/user-attachments/assets/1d141645-fdab-432b-b293-d6bc31356bb2)
 
 
 

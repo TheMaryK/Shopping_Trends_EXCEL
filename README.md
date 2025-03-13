@@ -1,6 +1,7 @@
 # SHOPPING TRENDS AND CUSTOMER PREFERENCES AT LUXEHUB
 
-![store (2)](https://github.com/user-attachments/assets/6356500e-1492-41fe-80bb-91fd3661edc3)
+![Uploading store.png…]()
+
 
 ## INTRODUCTION
 

@@ -1,16 +1,8 @@
 # SHOPPING TRENDS AND CUSTOMER PREFERENCES AT LUXEHUB
-
-![Uploading store.png…]()
-
+![image](https://github.com/user-attachments/assets/0b5aa537-4f31-4aec-a3c0-a5c3c72868b5)
 
 ## INTRODUCTION
-
-Who shops more? Men or women? Do promotional strategies actually boost sales? Which payment and shipping methods bring in the most revenue?
-This project analysez customer data to uncover what drives customer behavior, which products sell best, and how spending shifts with the seasons. 
-
-The goal? To help businesses optimize sales strategies and create a shopping experience that truly resonates with customers. 
-
-Curious to see the full dataset and dashboard? [Here you have it](https://1drv.ms/x/c/ec5d3d06336b4d58/EU17BTPABTtMnCev6UHgE3MBfHAat4WtktKqELYdArlubw?e=aLdNYC)
+I wanted to explore customer shopping behavior, so I analyzed a dataset to uncover purchasing patterns, top-selling products, and seasonal spending trends to help businesses refine their sales strategies and enhance the customer experience.
 
 ## KEY ANALYTICAL PURSUITS
 
@@ -59,7 +51,7 @@ The datset contains 3900 rows and 18 columns.
 3. Just 27% of the customers are Subscribers, Infact, none of the female customers subscribe.
 4. 43% of the customers have taken advantage of the promo code so far. Again, none of the female customers are part of these 47%.
 5. All the payment methods are being utilized very well by the customers.
-6. Customers love free shipping but other shipping methods are not laggong either.
+6. Customers love free shipping but other shipping methods are not lagging either.
 7. Clothing remains the best seller.
 8. Fall tops seasonal spending trend.
 
